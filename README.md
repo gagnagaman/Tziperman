@@ -3,3 +3,5 @@ Global Warming Science: A Quantitative Introduction to Climate Change and Its Co
 
  Note that the notebook comes in two versions. One is the original the other (V2)  is the one that runs on  COLAB
  All the assignment codeblocks were done with the assistance of Gemini.
+
+ Colab versions reading excel files rather than pickles are also stored here, see files ending with _colab.ipnb
